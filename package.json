@@ -184,5 +184,10 @@
     "windows-focus-assist": "1.4.0",
     "winreg-utf8": "0.1.1",
     "yargs": "17.7.2"
+  },
+  "rpm": {
+    "fpm": [
+      "--rpm-digest=sha256"
+    ]
   }
 }
